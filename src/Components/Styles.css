@@ -1,0 +1,10 @@
+button {
+  color: white;
+  background-color: gray;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+div {
+  background-color: wheat;
+}
